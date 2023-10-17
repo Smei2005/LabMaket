@@ -1,0 +1,44 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: 1700px;
+}
+
+.page{
+    margin-left: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(88, 88, 88, 0.756);
+}
+
+#galleryTiles{
+    width: 700px;
+}
+
+h1, h2{
+    font-family: 'Pixelify Sans', sans-serif;
+    color:chartreuse;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+p, ul{
+    font-family: 'Pixelify Sans', sans-serif;
+    color:rgb(89, 177, 1);
+    text-align: center;
+}
+
+.item_page{
+    border: 2px dashed chartreuse;
+    padding: 20px;
+    border-radius: 20px;
+}
