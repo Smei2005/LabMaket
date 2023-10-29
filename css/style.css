@@ -10,22 +10,17 @@ p{
     color: rgb(110, 110, 110);
 }
 
-/*Other birds*/
-.p-size{
-    font-size: 16px;
-}
-
-
 .bg-primary{
     border-width: 2px;
 }
 
-/*Main*/
-.column_mobile{
-    margin-left: 30px;
-}
 body{
     margin-left: 30px;
+}
+
+/*Other birds*/
+.p-size{
+    font-size: 16px;
 }
 
 /*Navbar*/
