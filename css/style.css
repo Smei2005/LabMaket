@@ -17,6 +17,9 @@ p{
 body{
     margin-left: 30px;
 }
+.image_height{
+    max-height: 570px;
+}
 
 /*Other birds*/
 .p-size{
